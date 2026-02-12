@@ -1,0 +1,27 @@
+div {
+    height:300px;
+    width: 500px;
+    background-color: pink;
+    /* border-width: 5px;
+    border-style: solid;
+    border-color: black;
+   */
+    border: 5px solid black;
+    /* border-left-color: chartreuse;
+    border-left-style: dashed; */
+     border-top: 5px dashed blue; 
+    border-radius: 10px;
+    padding-left: 50px;
+    margin-bottom: 25px;
+    margin: 10px 20px 30px 40px;
+}
+
+h1 {
+    /* border-width: 3px;
+    border-style: dashed;
+    border-color: aqua; */
+    border: 3px dashed aqua;
+    border-radius: 50px;
+    margin: 0px;
+
+}

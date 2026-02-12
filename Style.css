@@ -1,0 +1,20 @@
+
+ h2 {
+     color:red;
+      background-color: yellow;
+    }
+
+h3 {
+    color:blueviolet;
+    background-color: pink;
+}
+
+p {
+    color: green;
+    background-color: red;
+}
+
+button{
+    color: red;
+    background-color: yellow;
+}
